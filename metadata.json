@@ -1,0 +1,6 @@
+{
+  "name": "JanSetu AI",
+  "description": "From Citizen Voice to Development Priorities - AI-powered platform for collecting citizen development requests and assisting policymakers in identifying community infrastructure priorities.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
